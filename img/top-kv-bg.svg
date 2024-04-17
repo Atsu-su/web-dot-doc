@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="612" viewBox="0 0 360 612">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eceff4;
+      }
+    </style>
+  </defs>
+  <g id="top-kv-bg" transform="translate(0 0.477)">
+    <path id="top-kv-wave-bottom" class="cls-1" d="M0,47.645,12,48.96c12,1.414,36,3.9,60,5.31,24,1.315,48,1.315,72-3.97,24-5.385,48-15.807,72-19.852,24-3.9,48-1.414,72-2.655s48-6.7,60-9.256l12-2.655V0H0Z" transform="translate(0 556.523)"/>
+    <rect id="top-kv-main" class="cls-1" width="360" height="557" transform="translate(0 -0.477)"/>
+  </g>
+</svg>
